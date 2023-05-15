@@ -1,3 +1,4 @@
+![logo](https://github.com/maheshkhare/maheshkhare/blob/main/mahesh%20Khare.png)
 <h1 align="center">Hi 👋, I'm Mahesh Khare</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
